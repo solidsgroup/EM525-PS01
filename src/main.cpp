@@ -13,6 +13,9 @@ using Matrix = Eigen::Matrix2d;   // Note that "Set::Matrix" is the same as Eige
 
 int main(int argc, char **argv)
 {
+    // TIP: We will use the "Eigen" library to do matrix and vector manipulations.
+    //      You can find documentation about Eigen on its webpage
+    //            https://eigen.tuxfamily.org/
 
     // TODO #1: Print "Hello world" to the console by uncommenting the following line:
     //
